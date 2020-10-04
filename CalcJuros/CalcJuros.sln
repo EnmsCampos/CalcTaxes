@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcJuros", "CalcJuros.csproj", "{B8D2AFC4-1A73-4372-8726-3FCF0EC18215}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcJuros.Test", "..\CalcJurosTest\CalcJuros.Test.csproj", "{8F6C4968-736C-4854-A235-08E7722E38B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D2AFC4-1A73-4372-8726-3FCF0EC18215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D2AFC4-1A73-4372-8726-3FCF0EC18215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D2AFC4-1A73-4372-8726-3FCF0EC18215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D2AFC4-1A73-4372-8726-3FCF0EC18215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6C4968-736C-4854-A235-08E7722E38B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6C4968-736C-4854-A235-08E7722E38B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6C4968-736C-4854-A235-08E7722E38B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6C4968-736C-4854-A235-08E7722E38B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85836D09-E391-42E3-8ABC-7CA1C70FDE9E}
+	EndGlobalSection
+EndGlobal
